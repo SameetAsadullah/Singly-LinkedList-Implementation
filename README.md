@@ -1,7 +1,7 @@
 <h1 align="center">Singly LinkedList Implementation</h1>
 
 ### Description
-My own `Templatized C++ Implementation` of Single LinkedList using Microsoft Visual Studio.
+My own `Templatized C++ Implementation` of Singly LinkedList using Microsoft Visual Studio.
 
 ### Functions
 - insert()
